@@ -5,7 +5,7 @@
 
 I'm studying and working on Javascript ecosystem: NodeJS | ReactJS | React Native. I have some good experience with freelancer developer working with Firebase, AWS, Microservices, TDD etc...
 
-- I'm currently working on [Social Comics](https://socialcomics.com.br) as Backend Developer and i'm enjoying a lot.
+- I'm currently working on [Social Comics](https://socialcomics.com.br) as Backend Developer and I'm enjoying a lot.
 - I'm currently learning a little bit more about AWS ecosystem and ReactJS stuff.
 - I'm open to work as Full-Stack Developer (focused on backend) as a freelancer or Full-time for remote jobs.
 - Please contact me if you need a committed professional with good soft skills and dev team experience.
