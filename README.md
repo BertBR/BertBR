@@ -11,8 +11,7 @@ I'm studying and working on Javascript ecosystem: NodeJS | ReactJS | React Nativ
 - I'm currently learning a little bit more about AWS ecosystem and ReactJS stuff.
 - I'm open to work as Full-Stack Developer (focused on backend) as a freelancer or Full-time for remote jobs.
 - Please contact me if you need a committed professional with good soft skills and dev team experience.
-- Reach me on:
-
+> Reach me:
 <a href="https://www.linkedin.com/in/viniciusmvn">
   <img align="left" alt="My LinkdeIn" width="22px" src="https://image.flaticon.com/icons/svg/145/145807.svg" />
 </a>
