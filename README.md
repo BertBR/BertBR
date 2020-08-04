@@ -5,6 +5,8 @@
 
 I'm studying and working on Javascript ecosystem: NodeJS | ReactJS | React Native. I have some good experience with freelancer developer working with Firebase, AWS, Microservices, TDD etc...
 
+<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true" />
+
 - I'm currently working on [Social Comics](https://socialcomics.com.br) as Backend Developer and I'm enjoying a lot.
 - I'm currently learning a little bit more about AWS ecosystem and ReactJS stuff.
 - I'm open to work as Full-Stack Developer (focused on backend) as a freelancer or Full-time for remote jobs.
@@ -20,5 +22,3 @@ I'm studying and working on Javascript ecosystem: NodeJS | ReactJS | React Nativ
 <a href="https://t.me/bertinnn">
   <img align="left" alt="My Telegram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111646.svg" />
 </a>
-<br />
-<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true" />
