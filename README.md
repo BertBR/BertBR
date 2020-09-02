@@ -1,15 +1,15 @@
 ### Hey buddy!
 
-### I'm Marcos Vinícius, Full-Stack Developer, passionate about Web Development :heart:.
+### I'm Marcos Vinícius, Back-end Developer, passionate about Web Development :heart:.
 <img src="https://img.shields.io/github/followers/bertbr?style=social"/>
 
-I'm studying and working on Javascript ecosystem: NodeJS | ReactJS | React Native. I have some good experience with freelancer developer working with Firebase, AWS, Microservices, TDD etc...
+I'm studying and working on Javascript/Typescript in NodeJS. I have some good experience with freelancer developer working with Firebase, AWS, Microservices, TDD etc...
 
 <img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true" />
 
-- I'm currently working on [Social Comics](https://socialcomics.com.br) as Backend Developer and I'm enjoying a lot.
-- I'm currently learning a little bit more about AWS ecosystem and ReactJS stuff.
-- I'm open to work as Full-Stack Developer (focused on backend) as a freelancer or Full-time for remote jobs.
+- I'm currently working as Backend Developer.
+- I'm currently learning a little bit more about AWS ecosystem and ReactJS/React Native stuff.
+- I'm open to work as Back-end Developer, as a freelancer or Full-time for remote jobs.
 - Please contact me if you need a committed professional with good soft skills and dev team experience.
 > Reach me:
 <a href="https://www.linkedin.com/in/viniciusmvn">
