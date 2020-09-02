@@ -9,7 +9,7 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
 
 - I'm currently working as Backend Developer.
 - I'm currently learning a little bit more about AWS ecosystem and ReactJS/React Native stuff.
-- I'm open to work as Back-end Developer, as a freelancer or Full-time for remote jobs.
+- I'm open to work as Back-end Developer, freelancer or Full-time for remote jobs.
 - Please contact me if you need a committed professional with good soft skills and dev team experience.
 > Reach me:
 <a href="https://www.linkedin.com/in/viniciusmvn">
