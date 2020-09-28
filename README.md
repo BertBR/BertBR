@@ -22,4 +22,11 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
   <img align="left" alt="My Telegram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111646.svg" />
 </a>
 <!--START_SECTION:waka-->
+```text
+TypeScript         14 hrs 6 mins   ███████████████████▓░░░░░   79.15 % 
+reStructuredText   3 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+JSON               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Other              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JavaScript         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+```
 <!--END_SECTION:waka-->
