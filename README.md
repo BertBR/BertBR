@@ -9,7 +9,6 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
 - I'm currently learning a little bit more about AWS ecosystem and ReactJS/React Native stuff.
 - I'm open to work as Back-end Developer, freelancer or Full-time for remote jobs.
 - Please contact me if you need a committed professional with good soft skills and dev team experience.
-<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true" />
 
 <!--START_SECTION:waka-->
 **:bar_chart: Weekly development breakdown**
@@ -21,6 +20,7 @@ Other              3 mins          ░░░░░░░░░░░░░░░
 JavaScript         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
+<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true" />
 
 > Reach me:
 <a href="https://www.linkedin.com/in/viniciusmvn">
