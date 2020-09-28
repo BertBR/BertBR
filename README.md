@@ -21,3 +21,5 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
 <a href="https://t.me/bertinnn">
   <img align="left" alt="My Telegram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111646.svg" />
 </a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
