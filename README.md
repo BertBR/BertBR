@@ -10,7 +10,7 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
 - I'm open to work as Back-end Developer, freelancer or Full-time for remote jobs.
 - Please contact me if you need a committed professional with good soft skills and dev team experience.
 
-<img alt="Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true" />
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true" />
 
 > Reach me:
 <a href="https://www.linkedin.com/in/viniciusmvn">
