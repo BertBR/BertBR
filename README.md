@@ -28,8 +28,7 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
 
 
 <!--START_SECTION:waka-->
-**:bar_chart: Weekly development breakdown**
-```
+```text
 TypeScript         14 hrs 6 mins   ███████████████████▓░░░░░   79.15 % 
 reStructuredText   3 hrs 31 mins   █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 JSON               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
