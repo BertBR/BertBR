@@ -1,6 +1,6 @@
 ### Hey buddy!
 
-### I'm Vinícius, Back-end Developer, passionate about Web Development :heart:.
+### I'm Back-end Developer, passionate about Web Development :heart:.
 <img src="https://img.shields.io/github/followers/bertbr?style=social"/>
 
 I'm studying and working on Javascript/Typescript in NodeJS. I have some good experience with freelancer developer working with Firebase, AWS, Microservices, TDD etc...
