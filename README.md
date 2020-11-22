@@ -29,10 +29,10 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript         27 hrs 27 mins  ██████████████████████▒░░   89.51 % 
-JSON               1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-reStructuredText   1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Other              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-YAML               18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+TypeScript         26 hrs 41 mins  ██████████████████████▒░░   89.70 % 
+JSON               1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+reStructuredText   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Other              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+YAML               18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
