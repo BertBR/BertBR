@@ -29,8 +29,9 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   16 hrs 48 mins  ███████████████████████▓░   94.73 % 
-JSON         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript   17 hrs 55 mins  ███████████████████████▓░   94.08 % 
+JSON         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 <!--END_SECTION:waka-->
