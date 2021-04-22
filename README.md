@@ -29,6 +29,8 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   19 mins         █████████████▓░░░░░░░░░░░   55.17 % 
+Docker       10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.41 % 
+JSON         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 % 
 ```
 <!--END_SECTION:waka-->
