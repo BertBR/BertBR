@@ -1,13 +1,12 @@
 ### Hey buddy!
 
-### I'm Back-end Developer, passionate about Web Development :heart:.
+### Software Engineer, passionate about Web Development :heart:.
 <img src="https://img.shields.io/github/followers/bertbr?style=social"/>
 
 I'm studying and working on Javascript/Typescript in NodeJS. I have some good experience with freelancer developer working with Firebase, AWS, Microservices, TDD etc...
 
-- I'm currently working as Backend Developer.
-- I'm currently learning a little bit more about AWS ecosystem and ReactJS/React Native stuff.
-- I'm open to work as Back-end Developer, freelancer or Full-time for remote jobs.
+- I'm currently working as Senior Product Developer.
+- I'm currently learning a little bit more about AWS ecosystem and ReactJS/React Native, Vue, Flutter.
 - Please contact me if you need a committed professional with good soft skills and dev team experience.
 
 
