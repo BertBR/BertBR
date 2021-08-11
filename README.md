@@ -23,7 +23,7 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
 
 <br />
 <br />
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true" />
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true&count_private=true" />
 
 
 <!--START_SECTION:waka-->
