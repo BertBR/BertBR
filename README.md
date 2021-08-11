@@ -24,8 +24,8 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
 <br />
 <br />
 <div style="display: flex">
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true&count_private=true" width="475" />
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertbr&layout=compact&theme=dracula" width="400"/>
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true&count_private=true" width="360" />
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertbr&layout=compact&theme=dracula" width="300"/>
 </div>
 
 <!--START_SECTION:waka-->
