@@ -15,10 +15,10 @@ I'm studying and working on Javascript/Typescript in NodeJS. I have some good ex
   <img align="left" alt="My LinkdeIn" width="22px" src="https://image.flaticon.com/icons/svg/145/145807.svg" />
 </a>
 <a href="mailto:viniciusmvn@pm.me">
-  <img align="left" alt="Mail me" width="22px" src="https://image.flaticon.com/icons/svg/1057/1057100.svg" />
+  <img align="left" alt="Mail me" width="22px" src="https://www.svgrepo.com/show/145950/email.svg" />
 </a>
 <a href="https://t.me/bertinnn">
-  <img align="left" alt="My Telegram" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111646.svg" />
+  <img align="left" alt="My Telegram" width="22px" src="https://www.svgrepo.com/show/354443/telegram.svg" />
 </a>
 
 <br />
