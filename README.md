@@ -12,7 +12,7 @@ Expertise in Javascript/Typescript, NodeJS, GCP, Docker, CI/CD. I have some good
 
 > Reach me:
 <a href="https://www.linkedin.com/in/viniciusmvn">
-  <img align="left" alt="My LinkdeIn" width="22px" src="https://image.flaticon.com/icons/svg/145/145807.svg" />
+  <img align="left" alt="My LinkdeIn" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg" />
 </a>
 <a href="mailto:viniciusmvn@pm.me">
   <img align="left" alt="Mail me" width="22px" src="https://www.svgrepo.com/show/145950/email.svg" />
