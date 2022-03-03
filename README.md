@@ -1,7 +1,6 @@
 ### Hey buddy!
 
 ### Software Engineer, passionate about Back-end Development :heart:.
-<img src="https://img.shields.io/github/followers/bertbr?style=social"/>
 
 Expertise in Javascript/Typescript, NodeJS, GCP, Docker, CI/CD. I have some good experience with freelancer developer working with Firebase, AWS, Microservices, TDD etc...
 
