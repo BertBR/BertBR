@@ -25,7 +25,7 @@ Expertise in Javascript/Typescript, NodeJS, GCP, Docker, CI/CD. I have some good
 <br />
 <div style="display: flex">
 <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true&count_private=true" width="360" />
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertbr&layout=compact&theme=dracula" width="300"/>
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertbr&layout=compact&theme=dracula&langs_count=6" width="300"/>
 </div>
 
 <!--START_SECTION:waka-->
