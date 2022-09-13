@@ -4,7 +4,7 @@
 
 Expertise in Javascript/Typescript, NodeJS, GCP, Docker, CI/CD. I have some good experience with freelancer developer working with Firebase, AWS, Microservices, TDD etc...
 
-- I'm currently working as Senior Product Developer.
+- I'm currently working as Tech Lead Senior Backend Developer.
 - I'm currently learning a little bit more about Golang.
 - Developing microservices with nestjs.
 - Please contact me if you need a committed professional with good soft skills and dev team experience.
