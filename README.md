@@ -19,16 +19,3 @@ Expertise in Javascript/Typescript, NodeJS, GCP, Docker, CI/CD. I have some good
 <a href="https://t.me/bertinnn">
   <img align="left" alt="My Telegram" width="22px" src="https://www.svgrepo.com/show/354443/telegram.svg" />
 </a>
-
-<br />
-<br />
-<div style="display: flex">
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bertbr&theme=dracula&show_icons=true&count_private=true" width="360" />
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertbr&layout=compact&theme=dracula&langs_count=6" width="300"/>
-</div>
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
