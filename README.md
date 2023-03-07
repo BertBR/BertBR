@@ -2,11 +2,11 @@
 
 ### Software Engineer, passionate about Back-end Development :heart:.
 
-Expertise in Javascript/Typescript, NodeJS, GCP, Docker, CI/CD. I have some good experience with freelancer developer working with Firebase, AWS, Microservices, TDD etc...
+Expertise in Javascript/Typescript, NodeJS, GCP, Docker, CI/CD. I have some good experience with backend developer working with Golang, Node.js, AWS, GCP, Microservices, Observability, RabbitMQ, Postgres, Mysql, MongoDB, etc...
 
 - I'm currently working as Tech Lead Senior Backend Developer.
-- I'm currently learning a little bit more about Golang.
-- Developing microservices with nestjs.
+- I'm currently loving to work with Golang as main programming language.
+- Developing microservices and implementing observability using open telemetry manual instrumentation.
 - Please contact me if you need a committed professional with good soft skills and dev team experience.
 
 > Reach me:
